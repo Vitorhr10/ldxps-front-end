@@ -1,6 +1,4 @@
-<h1 align="center">
-LDXPS front-end
-</h1>
+# LDXPS front-end
 
 ## Techs
 - ReactJS
